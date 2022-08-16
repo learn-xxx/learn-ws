@@ -1,5 +1,8 @@
 # WebSocket连接建立
 
+> 内容参考
+> - [WebSocket协议（一）- 简介以及连接建立过程](https://timefly.cn/learn-websocket-protocol-1/)
+
 ## 什么是WebSocket
 
 WebSocket是HTML5开始提供的一种在单个TCP 连接上进行全双工通讯的协议。
